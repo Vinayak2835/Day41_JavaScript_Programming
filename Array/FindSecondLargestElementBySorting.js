@@ -14,4 +14,4 @@ const secondMin = Math.min(...minFiltered);
 
 console.log(
   "second maximum = " + secondMax + " and second minimum = " + secondMin
-);
+ );
