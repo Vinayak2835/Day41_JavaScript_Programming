@@ -1,4 +1,4 @@
-//let number = 12;
+ //let number = 12;
 const readline1 = require("readline").createInterface({
     input: process.stdin,
     output:process.stdout
