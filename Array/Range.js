@@ -4,7 +4,7 @@ var numbers = [];
 for (var i = 0; i <= 100; i++) {
     if( i != 0) {
         if(i%11 ==  0) {
-        //Store the elements in an Array
+         //Store the elements in an Array
         numbers[i] == i;
         console.log(i);
        }
