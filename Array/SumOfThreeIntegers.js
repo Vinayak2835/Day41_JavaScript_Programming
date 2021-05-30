@@ -7,5 +7,5 @@ var array = new Array (1,2,-2,3,-3,4,2,1);
                 console.log(array[i]+ "+"+array[j]+ "+"+array[k]+"=0");
              }
         }
-    }
+     }
 }
