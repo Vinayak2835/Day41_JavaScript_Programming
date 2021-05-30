@@ -6,6 +6,6 @@ var array = new Array (1,2,-2,3,-3,4,2,1);
             if (array[i]+array[j]+array[k] == 0) {
                 console.log(array[i]+ "+"+array[j]+ "+"+array[k]+"=0");
              }
-         }
+        }
     }
 }
